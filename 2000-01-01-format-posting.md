@@ -2,7 +2,7 @@
 layout: post
 title:  Lapangan Futsal Rubber: Pilihan Ideal untuk Sepak Bola Indoor
 images: /assets/images/3-lapangan-futsal.jpg
-images-alt: Judul1
+images-alt: Judul
 penulis: Denny Rakhmad Widi Ashari
 photos: /assets/images/3-lapangan-futsal.jpg
 deskripsi: Anda sedang mencari Judul, Adhyasta dapat mewujudkan lapangan tenis yang indah, Segera Hubungi Kami !
@@ -144,7 +144,7 @@ deskripsi: Anda sedang mencari Judul, Adhyasta dapat mewujudkan lapangan tenis y
                     </h2>
                     <div class="mbr-section-text">
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                           Pemasangan lapangan futsal rubber sebaiknya dilakukan oleh tenaga ahli yang berpengalaman. Memasang lapangan dengan benar membutuhkan keahlian khusus dan alat yang sesuai
+                           Pemasangan lapangan futsal rubber sebaiknya dilakukan oleh tenaga ahli yang berpengalaman. Memasang lapangan dengan benar membutuhkan keahlian khusus dan alat yang sesuai.
                         </p>
                     </div>
                      <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
