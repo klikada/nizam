@@ -5,7 +5,7 @@ images: /assets/images/3-lapangan-futsal.jpg
 images-alt: Judul
 penulis: Denny Rakhmad Widi Ashari
 photos: /assets/images/3-lapangan-futsal.jpg
-deskripsi: Anda sedang mencari Judul, Adhyasta: Kontraktor Kolam Renang Murah dengan Kualitas Terbaik, Segera Hubungi Kami !
+deskripsi: Anda sedang mencari Judul, Adhyasta Kontraktor Kolam Renang Murah dengan Kualitas Terbaik, Segera Hubungi Kami !
 ---
 <section class="features11 cid-rravbvzsVT" id="features11-5">
     <div class="container">
