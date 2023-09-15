@@ -24,52 +24,52 @@ deskripsi: Kami adalah perusahaan spesialis kontraktor lapangan Voli dengan peng
                         Faktor-faktor apa yang mempengaruhi anggaran proyek tersebut:
                         </h2>
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            1. Pemilihan Lokasi yang Tepat
+                        1. Pemilihan Lokasi yang Tepat
 Langkah awal dalam merencanakan pembangunan lapangan voli adalah memilih lokasi yang tepat. Biaya untuk mendapatkan lahan yang cocok bisa sangat bervariasi tergantung pada lokasi geografisnya. Lapangan voli yang terletak di pusat kota mungkin akan lebih mahal dibandingkan yang berada di pinggiran kota atau desa.
                         </p>
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            2. Desain dan Perencanaan
+                        2. Desain dan Perencanaan
 Proses perencanaan yang matang adalah kunci untuk membangun lapangan voli yang baik. Biaya yang terkait dengan desain dan perencanaan meliputi biaya konsultan, arsitek, dan insinyur yang akan membantu merancang lapangan voli sesuai dengan spesifikasi dan standar yang berlaku.
                         </p>
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                         3. Konstruksi Lapangan Voli
+                        3. Konstruksi Lapangan Voli
 Biaya terbesar dalam pembangunan lapangan voli adalah biaya konstruksi itu sendiri. Ini mencakup penggalian, pemadatan tanah, pembangunan infrastruktur, seperti sistem drainase, dan pemasangan lapisan permukaan lapangan. Lapisan permukaan dapat beragam, mulai dari pasir hingga material sintetis khusus voli.
                         </p>
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            4. Peralatan dan Aksesori
+                        4. Peralatan dan Aksesori
 Peralatan voli yang meliputi net, tiang, dan bola harus dianggarkan. Anda juga perlu mempertimbangkan biaya untuk pencahayaan, kursi penonton, dan fasilitas pendukung lainnya, seperti ruang ganti dan toilet.
                         </p>
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            5. Perizinan dan Regulasi
+                        5. Perizinan dan Regulasi
 Setiap proyek pembangunan lapangan voli harus mematuhi perizinan dan regulasi yang berlaku. Biaya yang terkait dengan perizinan, izin lingkungan, dan persetujuan dari pihak berwenang harus diperhitungkan.
                         </p>
                          <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                           6. Perawatan dan Pemeliharaan
+                        6. Perawatan dan Pemeliharaan
 Jangan lupakan biaya perawatan dan pemeliharaan lapangan voli setelah selesai dibangun. Ini mencakup biaya untuk pemeliharaan rutin, perbaikan, dan penggantian peralatan yang aus.
                         </p>
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            7. Pencahayaan dan Energi
+                        7. Pencahayaan dan Energi
 Pencahayaan yang memadai adalah penting untuk memastikan lapangan voli dapat digunakan pada malam hari. Ini mencakup biaya untuk lampu sorot, kabel listrik, dan biaya energi yang terkait dengan operasi lapangan voli.
                         </p>
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            8. Manajemen Proyek dan Biaya Admin
+                        8. Manajemen Proyek dan Biaya Admin
 Biaya manajemen proyek dan biaya administratif juga harus dipertimbangkan dalam anggaran proyek. Ini mencakup biaya pengawasan proyek, biaya perencanaan, dan administrasi umum.
                         </p>
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            9. Faktor Lingkungan
+                        9. Faktor Lingkungan
 Penting untuk mempertimbangkan dampak lingkungan dari proyek pembangunan lapangan voli. Memilih material yang ramah lingkungan dan mengadopsi praktik konstruksi berkelanjutan mungkin akan mempengaruhi biaya, tetapi ini adalah investasi dalam keberlanjutan jangka panjang.
                         </p>
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            10. Konsultasi dengan Profesional
+                        10. Konsultasi dengan Profesional
 Sebelum Anda memulai proyek pembangunan lapangan voli, konsultasikan dengan profesional konstruksi dan arsitek yang berpengalaman. Mereka dapat membantu Anda merencanakan proyek dengan lebih baik, mengoptimalkan anggaran, dan memastikan bahwa lapangan voli Anda memenuhi standar kualitas tertinggi.
                         </p>
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            11. Mendukung Perkembangan Atlet Muda
+                        11. Mendukung Perkembangan Atlet Muda
 Lapangan voli yang berkualitas tinggi memberikan kesempatan untuk mengembangkan atlet muda. Klub voli lokal, sekolah, dan akademi dapat menggunakan fasilitas ini untuk melatih dan mengasah bakat-bakat muda. Ini bukan hanya investasi dalam fasilitas, tetapi juga dalam masa depan atletik Indonesia.
                         </p>
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            12. Pemasaran dan Promosi
-                            Sebagai pemilik lapangan voli, Anda dapat mengoptimalkan pemasaran dan promosi fasilitas Anda untuk meningkatkan penggunaan dan pendapatan. Ini meliputi kerja sama dengan sekolah, klub, dan federasi olahraga voli untuk menggelar turnamen dan kompetisi di lapangan Anda. Anda juga dapat memanfaatkan media sosial dan strategi pemasaran online untuk meningkatkan visibilitas lapangan voli Anda.
+                        12. Pemasaran dan Promosi
+                        Sebagai pemilik lapangan voli, Anda dapat mengoptimalkan pemasaran dan promosi fasilitas Anda untuk meningkatkan penggunaan dan pendapatan. Ini meliputi kerja sama dengan sekolah, klub, dan federasi olahraga voli untuk menggelar turnamen dan kompetisi di lapangan Anda. Anda juga dapat memanfaatkan media sosial dan strategi pemasaran online untuk meningkatkan visibilitas lapangan voli Anda.
                         </p>
                          <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
                         Kesimpulan 
